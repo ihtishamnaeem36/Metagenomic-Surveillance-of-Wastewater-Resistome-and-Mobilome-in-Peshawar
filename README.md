@@ -2,14 +2,14 @@
 
 Code supporting the manuscript **"Metagenomic Surveillance of the Resistome and
 Mobilome Across Hospital, Slaughterhouse, and Community Wastewater in Peshawar,
-Pakistan"** (submitted to *Chemosphere*).
+Pakistan"**
 
 Six shotgun metagenomic wastewater samples (two hospital, two slaughterhouse,
 two community, sampled 30 days apart) were processed on the Wekemo BioinCloud
 platform (Gao et al., 2024) for read QC, taxonomic profiling (Kraken2/Bracken/
 DIAMOND), CARD-based ARG annotation, and MGE annotation. This repository
 contains the **downstream statistical analysis and figure-generation code**
-written on top of BioinCloud's output tables — it is not a replacement for the
+written on top of BioinCloud's output tables it is not a replacement for the
 primary pipeline, which is described in the manuscript's Methods section.
 
 ## Repository structure
@@ -73,6 +73,6 @@ published) and, if relevant, this repository.
 MIT License — see `LICENSE`.
 
 ## Contact
-
+Author: Ihtisham Naeem (ihtishamnaeem36@gmail.com)
 Corresponding authors: Ishaq Khan (ishaq@uswat.edu.pk), Arshad Iqbal
 (arshad.iqbal@uswat.edu.pk), Muhammad Shafiq (drshafiq@stu.edu.cn).

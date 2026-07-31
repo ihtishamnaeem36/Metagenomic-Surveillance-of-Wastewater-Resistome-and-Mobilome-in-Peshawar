@@ -1,0 +1,75 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code, please cite it using the metadata below.
+  A full citation for the associated journal article will be added
+  here once the manuscript is accepted and published.
+type: software
+title: >-
+  Peshawar Wastewater Metagenomics: Analysis Code for Resistome and
+  Mobilome Surveillance
+authors:
+  - given-names: Ishaq
+    family-names: Khan
+    email: ishaq@uswat.edu.pk
+    orcid: "https://orcid.org/0009-0000-8265-7898"
+    affiliation: >-
+      Department of Biotechnology, Genetics, Forensic Science and
+      Microbiology, University of Swat, Charbagh 19200, Pakistan
+  - given-names: Ihtisham
+    family-names: Naeem
+    email: ihtishamnaeem36@gmail.com
+    orcid: "https://orcid.org/0009-0004-0911-0852"
+    affiliation: >-
+      Department of Biotechnology, Genetics, Forensic Science and
+      Microbiology, University of Swat, Charbagh 19200, Pakistan
+  - given-names: Syed Shujait
+    family-names: Ali
+    email: shujaitswati@uswat.edu.pk
+    affiliation: >-
+      Department of Biotechnology, Genetics, Forensic Science and
+      Microbiology, University of Swat, Charbagh 19200, Pakistan
+  - given-names: Arshad
+    family-names: Iqbal
+    email: arshad.iqbal@uswat.edu.pk
+    affiliation: >-
+      Department of Biotechnology, Genetics, Forensic Science and
+      Microbiology, University of Swat, Charbagh 19200, Pakistan
+  - given-names: Muhammad
+    family-names: Shafiq
+    email: drshafiq@stu.edu.cn
+    orcid: "https://orcid.org/0000-0002-4346-5903"
+    affiliation: >-
+      Department of Clinical Pharmacy, Shantou University Medical
+      College, Shantou 515041, China
+repository-code: "https://github.com/ihtishamnaeem36/REPO-NAME-HERE"
+license: MIT
+version: 1.0.0
+date-released: "2026-07-30"
+keywords:
+  - metagenomics
+  - antibiotic resistance genes
+  - mobile genetic elements
+  - wastewater-based epidemiology
+  - One Health
+references:
+  - type: article
+    status: submitted
+    title: >-
+      Metagenomic Surveillance of the Resistome and Mobilome Across
+      Hospital, Slaughterhouse, and Community Wastewater in Peshawar,
+      Pakistan
+    journal: Chemosphere
+    authors:
+      - given-names: Ishaq
+        family-names: Khan
+      - given-names: Ihtisham
+        family-names: Naeem
+      - given-names: Syed Shujait
+        family-names: Ali
+      - given-names: Arshad
+        family-names: Iqbal
+      - given-names: Muhammad
+        family-names: Shafiq
+    notes: >-
+      Manuscript under review at Chemosphere as of July 2026. Update
+      this entry with volume, pages, and DOI once published.

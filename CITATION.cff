@@ -41,7 +41,11 @@ authors:
     affiliation: >-
       Department of Clinical Pharmacy, Shantou University Medical
       College, Shantou 515041, China
-repository-code: "https://github.com/ihtishamnaeem36/REPO-NAME-HERE"
+repository-code: "https://github.com/ihtishamnaeem36/Metagenomic-Surveillance-of-Wastewater-Resistome-and-Mobilome-in-Peshawar"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21719438"
+    description: "Archived snapshot of this repository on Zenodo"
 license: MIT
 version: 1.0.0
 date-released: "2026-07-30"
